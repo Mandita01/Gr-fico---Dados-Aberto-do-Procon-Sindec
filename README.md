@@ -1,10 +1,26 @@
-# Gráfico - Dados Aberto do Procon Sindec
-Distribuição de Recursos para os Responsáveis pela Resolução
-Quais são os 6 mais denunciados ao Procon e como os recursos são distribuídos
-O Evidente contraste entre a demanda Denúncia e os Recursos Disponível para Solucionar  
-Comparativo de 2023 à 2026
-Segundo o Gráfico ouve evolução no número de atendimento 2023 à 2026
-Segundo o Gráfico ouve queda no número de denúncias
+# 📊 Gráfico - Dados Abertos do Procon SIndec
+
+## 📌 Análise dos dados
+
+### 1. Distribuição de Recursos
+*Como estão distribuídos os recursos destinados aos responsáveis pela resolução das denúncias no Procon?*
+
+### 2. Principais denunciados
+*Quais são os 6 responsáveis ou empresas mais denunciados ao Procon?*
+
+### 3. Demanda x Recursos
+*Existe um contraste entre a quantidade de denúncias recebidas e os recursos disponíveis para solucionar essas demandas?*
+
+### 4. Comparativo de 2023 a 2026
+*Como os dados se comportaram no período de 2023 a 2026? Houve aumento ou redução nos atendimentos?*
+
+### 5. Evolução dos atendimentos
+*Segundo o gráfico, houve evolução no número de atendimentos entre 2023 e 2026?*
+
+### 6. Número de denúncias
+*Segundo o gráfico, houve queda no número de denúncias ao longo dos anos?*
+
+---
 
 ## Visualizações
 
